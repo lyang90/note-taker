@@ -10,6 +10,7 @@ This project can be used for taking simple notes. To use this note taker you can
 ## Credits
 - Starter Code from Xander Rapstine https://github.com/coding-boot-camp/miniature-eureka
 - For the UUID from npm https://www.npmjs.com/package/uuid
+- NodeJS FS https://nodejs.org/dist/latest-v6.x/docs/api/fs.html
 
 
 
